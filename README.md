@@ -74,3 +74,8 @@
 ---
 <p align=center><img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
 <p align=center>Loading</p></p>
+
+<br>
+<p align="center">
+<img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
