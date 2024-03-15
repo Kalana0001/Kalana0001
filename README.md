@@ -1,3 +1,4 @@
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Kalana De Silva</h1>
 <h3 align="center">Passionate IT Student | Web Designer & Web Developer</h3>
