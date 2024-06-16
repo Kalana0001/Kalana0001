@@ -3,6 +3,9 @@
 <h1 align="center">Hi 👋, I'm Kalana De Silva</h1>
 <h3 align="center">Passionate IT Student | Web Designer & Web Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kalana0001&label=Profile%20views&color=0e75b6&style=flat" alt="kalana0001" /> </p>
+<p align="center">
+<img src="https://wakatime.com/badge/user/1b417bc2-4a98-4d8f-92d8-a0c4f43ae21a.svg" />
+</p>
 <p align="center"><img src="https://img.shields.io/github/followers/Kalana0001?style=social" alt="Kalana0001" /></p>
 
 <table align="center">
