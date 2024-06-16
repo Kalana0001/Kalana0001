@@ -2,8 +2,8 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Kalana De Silva</h1>
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=FFFFFF&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+all+!+%F0%9F%91%8B+;+I'm+Karem+Saad!" alt="Karem Saad" /></a>
-    </h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=500&color=FFFFFF&size=35&center=true&vCenter=true&random=false&width=435&lines=Hi+all+!+%F0%9F%91%8B+;+I'm+Kalana+De+Silva!" alt="Kalana De Silva" /></a>
+</h1>
 <h3 align="center">Passionate IT Student | Web Designer & Web Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kalana0001&label=Profile%20views&color=0e75b6&style=flat" alt="kalana0001" /> </p>
 <p align="center"><img src="https://img.shields.io/github/followers/Kalana0001?style=social" alt="Kalana0001" /></p>
