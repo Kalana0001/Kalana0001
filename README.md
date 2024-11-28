@@ -70,7 +70,7 @@
  <a href="https://supabase.com/" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Supabase-Dark.svg" alt="Supabase" width="50" height="50"/>
    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" alt="firebase" width="50" height="50"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="50" height="50"/> </a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/> </a> 
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/816/523/png-transparent-flutter-dart-ui-toolkit-application-development-google-cross-platform-3d-icon-thumbnail.png" alt="git" width="50" height="50"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/Photoshop.svg" alt="photoshop" width="50" height="50"/>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Arduino.svg" alt="Arduino" width="50" height="50"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VsCode" width="50" height="50"/> </a>
